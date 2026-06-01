@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "new",
+    "slug": "new",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "bc4dca24-159b-4d27-bbe6-a59e005204b8"
+      }
+    },
+    "owner": "mals12"
+  }
+}
